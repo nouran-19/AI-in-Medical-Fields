@@ -1,11 +1,11 @@
 # AI in Medical Fields
 
 ## Overview
-This repository provides an overview of the **AI in Medical Fields** course at Cairo University, Faculty of Engineering. Each discussion topic aimed at expanding our knowledge beyond the common techniques and each assignment explores different ML concepts implemented from scratch.
+This repository provides an overview of the AI in Medical Fields course at Cairo University, Faculty of Engineering. Each discussion topic aims to expand our knowledge beyond the common techniques, and each assignment explores different ML concepts implemented from scratch.
 
 ## Acknowledgements
 
-This repository was submitted as part of the **SBE3021 AI in Medical Fields course, Spring 2024** under the supervision of **[Dr. Inas Yassine](https://www.linkedin.com/in/inas-yassine-15ab4b4/?originalSubdomain=eg)** and **[ENG. Merna Bibars](https://merna-atef.github.io/)**.
+This repository was created as a documentation of the **SBE3021 AI in Medical Fields course, Spring 2024** under the supervision of **[Dr. Inas Yassine](https://www.linkedin.com/in/inas-yassine-15ab4b4/?originalSubdomain=eg)** and **[ENG. Merna Bibars](https://merna-atef.github.io/)**.
 
 ## 💡 Key Discussion Topics from Lectures
 
