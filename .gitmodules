@@ -1,3 +1,6 @@
 [submodule "Movie-Recommendation-System"]
 	path = Movie-Recommendation-System
 	url = https://github.com/nouran-19/Movie-Recommendation-System.git
+[submodule "breast-cancer-detection"]
+	path = breast-cancer-detection
+	url = https://github.com/nouran-19/breast-cancer-detection.git
