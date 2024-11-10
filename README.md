@@ -112,7 +112,7 @@ This repository was created as a documentation of the **SBE3021 AI in Medical Fi
   - Clustering visualization
   - Eigenvalue analysis
 
-### Assignment 9: Movie Recommender System
+### Assignment 8: Movie Recommender System
 - **Details can be found [here](https://github.com/nouran-19/Movie-Recommendation-System)**.
 
 ## 🛠️ Technologies Used
