@@ -1,11 +1,11 @@
 # AI in Medical Fields
 
 ## Overview
-This repository provides an overview of **AI in Medical Fields** course at Cairo University, Faculty of Engineering. Each discussion topic aimed at expanding our knowledge beyond the common techniques and each assignment explores different ML concepts implemented from scratch.
+This repository provides an overview of the **AI in Medical Fields** course at Cairo University, Faculty of Engineering. Each discussion topic aimed at expanding our knowledge beyond the common techniques and each assignment explores different ML concepts implemented from scratch.
 
 ## Acknowledgements
 
-This project was submitted as part of the **SBE3021 AI in Medical Fields course, Spring 2024** under the supervison of **[Dr. Inas Yassine](https://www.linkedin.com/in/inas-yassine-15ab4b4/?originalSubdomain=eg)** and **[ENG. Merna Bibars](https://merna-atef.github.io/)**.
+This repository was submitted as part of the **SBE3021 AI in Medical Fields course, Spring 2024** under the supervision of **[Dr. Inas Yassine](https://www.linkedin.com/in/inas-yassine-15ab4b4/?originalSubdomain=eg)** and **[ENG. Merna Bibars](https://merna-atef.github.io/)**.
 
 ## 💡 Key Discussion Topics from Lectures
 
@@ -17,14 +17,14 @@ This project was submitted as part of the **SBE3021 AI in Medical Fields course,
 - **Modern Approaches**:
   - Isolation Forest
   - Local Outlier Factor (LOF)
-  - DBSCAN for density-based detection
+  
 
 ### 2. Advanced Stopping Criteria in ML
 - **Beyond Traditional Methods**:
-  - Early stopping with validation set
+  - Early stopping with the validation set
   - Cross-validation based stopping
   - Learning rate scheduling
-- **Alternative Approaches**:
+- **Alternative Approaches!!**:
   - Gradient-based criteria
   - Model complexity metrics
   - Ensemble validation techniques
@@ -33,9 +33,8 @@ This project was submitted as part of the **SBE3021 AI in Medical Fields course,
 - **Distance Measures**:
   - Cosine similarity
   - Manhattan distance
-  - Minkowski distance
-  - Correlation-based distances
-- **Advanced Techniques**:
+  - Mahalanobis distance
+- **Advanced Techniques!!**:
   - Kernel-based similarity measures
   - Probabilistic approaches
   - Density-based metrics
@@ -49,11 +48,6 @@ This project was submitted as part of the **SBE3021 AI in Medical Fields course,
   - MDL (Minimum Description Length)
   - Distance-based measures
   - Custom domain-specific metrics
-
-### 5. Additional Topics of Interest
-- Trade-offs between model complexity and interpretability
-- Impact of feature scaling on different distance metrics
-- Handling high-dimensional data in clustering
 
 ## 📚 Assignments
 
