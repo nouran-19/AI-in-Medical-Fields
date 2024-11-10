@@ -1,0 +1,3 @@
+[submodule "Movie-Recommendation-System"]
+	path = Movie-Recommendation-System
+	url = https://github.com/nouran-19/Movie-Recommendation-System.git
