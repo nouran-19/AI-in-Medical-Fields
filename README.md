@@ -113,7 +113,7 @@ This repository was submitted as part of the **SBE3021 AI in Medical Fields cour
   - Eigenvalue analysis
 
 ### Assignment 9: Movie Recommender System
-- **Details can be found here**.
+- **Details can be found [here](https://github.com/nouran-19/Movie-Recommendation-System)**.
 
 ## 🛠️ Technologies Used
 - Python 3.11
