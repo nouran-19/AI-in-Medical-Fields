@@ -5,7 +5,7 @@ This repository provides an overview of the AI in Medical Fields course at Cairo
 
 ## Acknowledgements
 
-This repository was created as a documentation of the **SBE3021 AI in Medical Fields course, Spring 2024** under the supervision of **[Dr. Inas Yassine](https://www.linkedin.com/in/inas-yassine-15ab4b4/?originalSubdomain=eg)** and **[ENG. Merna Bibars](https://merna-atef.github.io/)**.
+This repository was created as a documentation of the **SBE3021 AI in Medical Fields course, Spring 2024** under the supervision of **[Dr. Inas Yassine](https://www.linkedin.com/in/inas-yassine-15ab4b4/?originalSubdomain=eg)**, Technical Product Manager at FIVOS, Full Professor at BME Department and **[Eng. Merna Bibars](https://merna-atef.github.io/)**, Ph.D. Machine Learning student at Georgia Institute of Technology.
 
 ## 🤖 Course Project
 Breast Cancer Detection and Classification Using Ultrasound Images & Classic Machine Learning Algorithms - [**Details can be foundd here**](https://github.com/nouran-19/breast-cancer-detection)
