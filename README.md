@@ -116,7 +116,7 @@ Breast Cancer Detection and Classification Using Ultrasound Images & Classic Mac
   - Eigenvalue analysis
 
 ### Assignment 8: Movie Recommender System
--  [**Details can be foundd here**](https://github.com/nouran-19/Movie-Recommendation-System).
+-  [**Details can be found here**](https://github.com/nouran-19/Movie-Recommendation-System).
 
 ## 🛠️ Technologies Used
 - Python 3.11
